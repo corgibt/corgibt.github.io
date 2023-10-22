@@ -1,0 +1,110 @@
+@font-face{
+    font-family:Open Sans;
+    font-style:normal;
+    font-display:swap;
+    font-weight:300;
+    src:
+    local("Open Sans Light"),
+    local("Open Sans-Light"),
+    url(/assets/fonts/Open-Sans/Light.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/Light.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:italic;
+    font-display:swap;
+    font-weight:300;
+    src:
+    local("Open Sans Light italic"),
+    local("Open Sans-Lightitalic"),
+    url(/assets/fonts/Open-Sans/Lightitalic.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/Lightitalic.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:normal;
+    font-display:swap;
+    font-weight:400;
+    src:
+    local("Open Sans Regular"),
+    local("Open Sans-Regular"),
+    url(/assets/fonts/Open-Sans/Regular.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/Regular.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:italic;
+    font-display:swap;
+    font-weight:400;
+    src:
+    local("Open Sans Regular italic"),
+    local("Open Sans-Regularitalic"),
+    url(/assets/fonts/Open-Sans/Regularitalic.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/Regularitalic.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:normal;
+    font-display:swap;
+    font-weight:600;
+    src:
+    local("Open Sans SemiBold"),
+    local("Open Sans-SemiBold"),
+    url(/assets/fonts/Open-Sans/SemiBold.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/SemiBold.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:italic;
+    font-display:swap;
+    font-weight:600;
+    src:
+    local("Open Sans SemiBold italic"),
+    local("Open Sans-SemiBolditalic"),
+    url(/assets/fonts/Open-Sans/SemiBolditalic.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/SemiBolditalic.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:normal;
+    font-display:swap;
+    font-weight:700;
+    src:
+    local("Open Sans Bold"),
+    local("Open Sans-Bold"),
+    url(/assets/fonts/Open-Sans/Bold.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/Bold.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:italic;
+    font-display:swap;
+    font-weight:700;
+    src:
+    local("Open Sans Bold italic"),
+    local("Open Sans-Bolditalic"),
+    url(/assets/fonts/Open-Sans/Bolditalic.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/Bolditalic.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:normal;
+    font-display:swap;
+    font-weight:800;
+    src:
+    local("Open Sans ExtraBold"),
+    local("Open Sans-ExtraBold"),
+    url(/assets/fonts/Open-Sans/ExtraBold.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/ExtraBold.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:italic;
+    font-display:swap;
+    font-weight:800;
+    src:
+    local("Open Sans ExtraBold italic"),
+    local("Open Sans-ExtraBolditalic"),
+    url(/assets/fonts/Open-Sans/ExtraBolditalic.woff2) format("woff2"),
+    url(/assets/fonts/Open-Sans/ExtraBolditalic.woff) format("woff")
+}
